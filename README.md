@@ -1,2 +1,2 @@
-# service-repo1
+# service-repo
 generate by cwgo
